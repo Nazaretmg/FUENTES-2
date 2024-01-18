@@ -1,0 +1,12 @@
+@font-face{
+  font-family: "Caveat";
+  src: url("../fonts/Caveat-VariableFont_wght.ttf");
+}
+
+.externo{
+  font-family: DotGothic16;
+}
+
+.servidor{
+  font-family: Caveat;
+}
